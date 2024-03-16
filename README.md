@@ -25,5 +25,5 @@ Discover how to use anchor tags (`<a>`) to create hyperlinks in HTML. Examples m
 Explore the use of images in HTML, including the `<img>` tag to embed images into web pages. Learn how to specify image sources, set alternate text, and adjust image dimensions.
 
 ### Quotes and Inline Block-Elements
-Learn how to use blockquote (<blockquote>) to display quoted content and inline block elements to format elements that behave like blocks but flow within a line of text.
+Learn how to use blockquote ('<blockquote>') to display quoted content and inline block elements to format elements that behave like blocks but flow within a line of text.
 
